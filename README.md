@@ -8,3 +8,9 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GiT
+git clone https://github.com/jesiping/belajarGIT.git
+git checkout -b (nama branch yang baru)
+git add (nama file tugas)
+git commit -m "(pesan)"
+git merge (nama branch)
+git push origin main
